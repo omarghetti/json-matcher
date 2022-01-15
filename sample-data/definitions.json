@@ -1,0 +1,21 @@
+[	
+	{
+		"term_id": 1,
+		"term": "investment firm",
+		"term_lemmas": ["investment", "firm"],
+		"definition": "‘investment firm’ means any legal person whose regular occupation or business is the provision of one or more investment services to third parties and/or the performance of one or more investment activities on a professional basis."
+	},
+	{
+		"term_id": 2,
+		"term": "investment services and activities",
+		"term_lemmas": ["investment", "service", "and", "activity"],
+		"definition": "‘investment services and activities’ means any of the services and activities listed in Section A of Annex I relating to any of the instruments listed in Section C of Annex I."
+	},
+	{
+		"term_id": 3,
+		"term": "client",
+		"term_lemmas": ["client"],
+		"definition": "‘client’ means any natural or legal person to whom an investment firm provides investment or ancillary services;"
+	}
+]
+
