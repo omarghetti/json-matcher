@@ -63,3 +63,6 @@ The match should be computed using the lemmas of the tokens and of the
 defined terms.
 
 The folder sample_data contains inputs and output examples for this problem.
+
+Important Hint! Regardless the size of the data sample, the alghoritm should work well 
+in real world scenario where the number of defined terms migth be huge.
