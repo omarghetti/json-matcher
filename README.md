@@ -66,3 +66,13 @@ The folder sample_data contains inputs and output examples for this problem.
 
 Important Hint! Regardless the size of the data sample, the alghoritm should work well 
 in real world scenario where the number of defined terms migth be huge.
+
+
+## How to run code
+To run code, open the project with and IDE of your choice and install the packages in the requirements txt file
+
+pip install -r requirements.txt
+
+After that, you can run the code opening a terminal in the main folder and using the command
+
+python main.py
